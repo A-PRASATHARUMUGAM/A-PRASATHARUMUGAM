@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=Profile%20views&color=0e75b6&style=flat" alt="a-prasatharumugam" width="150px" /> </p> 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam" alt="a-prasatharumugam" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=gruvbox" alt="a-prasatharumugam" />
+</a> </p>
 
 
 <p>🌱 I’m currently learning React.js</p>
