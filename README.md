@@ -42,7 +42,7 @@
 
 
 <!-- status  -->
-<details>
+<details open="">
     <summary>
         <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
     </summary>
