@@ -15,8 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-
-
 <p align="left"   >
 <!-- linkedin  -->
 <a href="https://linkedin.com/in/prasath-arumugam-94842a276/"   style="text-decoration: none;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasath-arumugam-94842a276/" height="30" width="40" /></a>
@@ -42,8 +40,23 @@
 <a href="https://webpack.js.org" style="text-decoration: none;" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&show_icons=true&locale=en&layout=compact" alt="a-prasatharumugam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam&show_icons=true&locale=en" alt="a-prasatharumugam" /></p>
+<!-- status  -->
+<details>
+    <summary>
+        <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+    </summary>
+  
+<p align="center">
+<!-- git hub status -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam&show_icons=true&hide_border=true&title_color=&amp&icon_color=&amp&text_color=FFFFFF&amp&bg_color=000000"/>
+<!-- most used language -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&show_icons=true&locale=en&hide_border=true&title_color=&icon_color=FFFFF&amp&text_color=FFFFFF&amp&bg_color=000000"  height="193px"  alt="a-prasatharumugam" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-prasatharumugam&" alt="a-prasatharumugam" /></p>
+  <!-- strick   readme code -->
+<p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam&background=000000&border=000000&stroke=FFFFFF&ring=FB8C00&fire=F7630C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF"alt="a-prasatharumugam" >
+</p>
+
+</details>
