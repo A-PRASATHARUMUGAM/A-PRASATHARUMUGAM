@@ -3,11 +3,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=Profile%20views&color=0e75b6&style=flat" alt="a-prasatharumugam" width="150px" /> </p> 
-
+<!-- trophy -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=gruvbox" alt="a-prasatharumugam" />
+  <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=onedark" alt="a-prasatharumugam" />
 </a> </p>
-
 
 <p>🌱 I’m currently learning React.js</p>
 <p>📫 How to reach me <a style="text-decoration: none;" href="mailto:prasatharumugam040@gmail.com">prasatharumugam040@gmail.com</a></p>
