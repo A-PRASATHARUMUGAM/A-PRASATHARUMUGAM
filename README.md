@@ -56,7 +56,7 @@
 
   <!-- strick   readme code -->
 <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam&background=000000&border=000000&stroke=FFFFFF&ring=FB8C00&fire=F7630C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF"alt="a-prasatharumugam" >
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam&cache_seconds=0&background=000000&border=000000&stroke=FFFFFF&ring=FB8C00&fire=F7630C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF"alt="a-prasatharumugam" >
 </p>
 
 </details>
