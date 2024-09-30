@@ -48,7 +48,7 @@
   
 <p align="center">
 <!-- git hub status -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam&show_icons=true&hide_border=true&title_color=&amp&icon_color=&amp&text_color=FFFFFF&amp&bg_color=000000&include_all_commits=true&count_private=true&cache_seconds=0" alt="a-prasatharumugam GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam&show_icons=true&hide_border=true&title_color=&icon_color=&amp&text_color=FFFFFF&bg_color=000000&include_all_commits=true&count_private=true&cache_seconds=2220" alt="a-prasatharumugam GitHub Stats" />
 <!-- most used language -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&show_icons=true&locale=en&hide_border=true&title_color=&icon_color=FFFFF&amp&text_color=FFFFFF&amp&bg_color=000000"  height="193px"  alt="a-prasatharumugam" />
 </p>
