@@ -23,21 +23,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"  > 
-<!-- bootstrap -->
-<a href="https://getbootstrap.com" style="text-decoration: none;" target="_blank" rel="noreferrer"style=" text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<!-- css -->
-<a href="https://www.w3schools.com/css/" style="text-decoration: none;" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<!-- git -->
-<a href="https://git-scm.com/" style="text-decoration: none;" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <!--  html-->
 <a href="https://www.w3.org/html/" style="text-decoration: none;" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<!-- css -->
+<a href="https://www.w3schools.com/css/" style="text-decoration: none;" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <!-- js -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<!-- bootstrap -->
+<a href="https://getbootstrap.com" style="text-decoration: none;" target="_blank" rel="noreferrer"style=" text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <!-- sass -->
 <a href="https://sass-lang.com" style="text-decoration: none;" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <!-- webpack -->
 <a href="https://webpack.js.org" style="text-decoration: none;" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
+<!-- git -->
+<a href="https://git-scm.com/" style="text-decoration: none;" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 
 <!-- status  -->
