@@ -21,7 +21,7 @@
 <a href="https://www.leetcode.com/xhrdqqsrhu"  style="text-decoration: none;" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xhrdqqsrhu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚙ Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
 <!-- status  -->
 <details open="">
     <summary>
-        <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+        <strong>GitHub Status ⚡</strong>
     </summary>
   
 <p align="center">
