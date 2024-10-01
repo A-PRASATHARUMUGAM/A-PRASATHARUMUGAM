@@ -8,8 +8,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=onedark" alt="a-prasatharumugam" />
 </a> </p>
 
-<p>🌱 I’m currently learning React.js</p>
-<p>📫 How to reach me <a style="text-decoration: none;" href="mailto:prasatharumugam040@gmail.com">prasatharumugam040@gmail.com</a></p>
+<h2>🌱 I’m currently learning React.js</h2>
+<h3>📫 How to reach me <a style="text-decoration: none;" href="mailto:prasatharumugam040@gmail.com">prasatharumugam040@gmail.com</a></h3>
 
 
 <h3 align="left">Connect with me:</h3>
