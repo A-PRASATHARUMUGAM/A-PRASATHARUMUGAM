@@ -42,7 +42,7 @@
 <!-- most used language -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact"  height="193px"  alt="a-prasatharumugam" />
 </p>
-
+  
   <!-- strick   readme code -->
 <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam"alt="a-prasatharumugam" >
