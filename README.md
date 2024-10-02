@@ -38,9 +38,9 @@
   
 <p align="center">
 <!-- git hub status -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam" alt="a-prasatharumugam GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam" height="180px"  alt="a-prasatharumugam GitHub Stats" />
 <!-- most used language -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact"  height="193px"  alt="a-prasatharumugam" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact"  height="180px"  alt="a-prasatharumugam" />
 </p>
   
   <!-- strick   readme code -->
