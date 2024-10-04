@@ -31,7 +31,7 @@
 <!-- status  -->
 <details open="">
     <summary>
-        <strong>GitHub Status ⚡</strong>
+        <strong > GitHub Status ⚡</strong>
     </summary>
   
 <p align="center">
