@@ -45,7 +45,13 @@
 <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam"alt="a-prasatharumugam" >
 </p>
-  
-
 
 </details>
+
+
+<!-- Leetcode status -->
+<p align="center">
+      <img src="https://leetcard.jacoblin.cool/Prasath_Arumugam?ext=contest&theme=dark" alt="a-prasatharumugam" >
+  
+</p>
+
