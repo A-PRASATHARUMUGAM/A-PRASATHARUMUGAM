@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,webpack,git" />
 </p>
 
-
+ 
 <!-- status  -->
 <details open="">
     <summary>
