@@ -43,7 +43,7 @@
   
   <!-- strick   readme code -->
 <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam " alt="a-prasatharumugam" >
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam" alt="a-prasatharumugam" >
 </p>
 
 </details>
