@@ -1,5 +1,5 @@
 
-<h1 align="center"   font="Times New Roman" >Hi 👋, I'm PRASATH ARUMUGAM</h1>
+<h1 align="center">Ｈｉ 👋, Ｉ'ｍ ＰＲＡＳＡＴＨ ＡＲＵＭＵＧＡＭ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=Profile%20views&color=0e75b6&style=flat" alt="a-prasatharumugam" width="150px" /> </p> 
@@ -8,7 +8,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=onedark" alt="a-prasatharumugam" />
 </p>
 
-<h2>🌱 I’m currently learning React.js</h2>
+<h2>🌱 I’m Currently Learning React.js</h2>
 <h3>📫 How to reach me <a style="text-decoration: none;" href="mailto:prasatharumugam040@gmail.com">prasatharumugam040@gmail.com</a></h3>
 
 
