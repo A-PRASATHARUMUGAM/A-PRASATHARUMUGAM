@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm PRASATH ARUMUGAM</h1>
+<h1 align="center"   font="Times New Roman" >Hi 👋, I'm PRASATH ARUMUGAM</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=Profile%20views&color=0e75b6&style=flat" alt="a-prasatharumugam" width="150px" /> </p> 
