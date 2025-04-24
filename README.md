@@ -17,13 +17,13 @@
 <!-- linkedin  -->
 <a href="https://linkedin.com/in/prasath-arumugam-94842a276/"   style="text-decoration: none;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasath-arumugam-94842a276/" height="30" width="40" /></a>
 <!-- leetcode -->
-<!-- <a href="https://www.leetcode.com/Prasath_Arumugam"  style="text-decoration: none;" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xhrdqqsrhu" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/Prasath_Arumugam"  style="text-decoration: none;" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xhrdqqsrhu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">⚙ Languages and Tools:</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,webpack,git" />
+<!--     <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,webpack,git" /> -->
 </p>
 
  
@@ -45,13 +45,13 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam" alt="a-prasatharumugam">
 </p>
 </details>
-
+ 
 
 <!-- Leetcode status -->
 <p align="center">
-  <a href="https://www.leetcode.com/Prasath_Arumugam"  style="text-decoration:none;" target="blank">
+<!--   <a href="https://www.leetcode.com/Prasath_Arumugam"  style="text-decoration:none;" target="blank">
       <img src="https://leetcard.jacoblin.cool/Prasath_Arumugam?ext=contest&theme=dark" alt="a-prasatharumugam" >
-  </a>
+  </a> -->
 </p>
 
 
