@@ -23,7 +23,7 @@
 <h3 align="left">⚙ Languages and Tools:</h3>
 
 <p align="center">
-<!--     <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,webpack,git" /> -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,webpack,git" />
 </p>
 
  
@@ -37,7 +37,7 @@
 <!-- git hub status -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam"  height="180px"  alt="a-prasatharumugam GitHub Stats" />
 <!-- most used language -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact"  height="180px" alt="a-prasatharumugm" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact"  height="180px" alt="a-prasatharumugm" />
 </p>
   
   <!-- strick  readme code -->
