@@ -49,9 +49,9 @@
 
 <!-- Leetcode status -->
 <p align="center">
-<!--   <a href="https://www.leetcode.com/Prasath_Arumugam"  style="text-decoration:none;" target="blank">
+  <a href="https://www.leetcode.com/Prasath_Arumugam"  style="text-decoration:none;" target="blank">
       <img src="https://leetcard.jacoblin.cool/Prasath_Arumugam?ext=contest&theme=dark" alt="a-prasatharumugam" >
-  </a> -->
+  </a>
 </p>
 
 
