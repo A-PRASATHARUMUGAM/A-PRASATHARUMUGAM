@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=Profile%20views&color=0e75b6&style=flat" alt="a-prasatharumugam" width="150px" /> </p> 
 <!-- trophy -->
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=onedark" alt="a-prasatharumugam" />
+  <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=onedark" alt="a-prasatharumugam " />
 </p>
 
 <h3>📫 How to reach me <a style="text-decoration: none;" href="mailto:prasatharumugam040@gmail.com">prasatharumugam040@gmail.com</a></h3>
