@@ -1,57 +1,84 @@
-
-<h1 align="center" >Ｈｉ 👋, Ｉ'ｍ ＰＲＡＳＡＴＨ ＡＲＵＭＵＧＡＭ</h1>
-<h3 align="center">A PASSIONATE FULL STACK DEVELOPER FROM INDIA </h3>
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=Profile%20views&color=0e75b6&style=flat" alt="a-prasatharumugam" width="150px" /> </p> 
-<!-- trophy -->
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=onedark" alt="a-prasatharumugam" />
-</p>
-
-<h3>📫 How to reach me <a style="text-decoration: none;" href="mailto:prasatharumugam040@gmail.com">prasatharumugam040@gmail.com</a></h3>
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left"   >
-<!-- linkedin  -->
-<a href="https://linkedin.com/in/prasath-arumugam-94842a276/"   style="text-decoration: none;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasath-arumugam-94842a276/" height="30" width="40" /></a>
-<!-- leetcode -->
-<a href="https://www.leetcode.com/Prasath_Arumugam"  style="text-decoration: none;" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xhrdqqsrhu" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">⚙ Languages and Tools:</h3>
+<h1 align="center">Hi 👋, I'm Prasath Arumugam</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | Problem Solver | MNC Aspirant</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,webpack,git" />
+  <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
- 
-<!-- status  -->
-<details open="">
-    <summary>
-        <strong > GitHub Status ⚡</strong>
-    </summary>
-  
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working as a **Front-End Developer**
+- 🌱 Learning **Advanced DSA & System Design**
+- 💡 Interested in **Full Stack Development & MNC Career Growth**
+- ⚡ Strong in UI Development & API Integration
+- 🎯 Goal: To work in a top MNC company
+
+---
+
+### 📫 Contact Me
+📧 **Email:** prasatharumugam040@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/prasath-arumugam-94842a276/  
+💻 **LeetCode:** https://www.leetcode.com/Prasath_Arumugam  
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/prasath-arumugam-94842a276/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/Prasath_Arumugam" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="center">
-<!-- git hub status -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam"  height="180px"  alt="a-prasatharumugam GitHub Stats" />
-<!-- most used language -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact"  height="180px" alt="a-prasatharumugm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,bootstrap,sass,git,github,postman,vscode" />
 </p>
-  
-  <!-- strick  readme code -->
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam" alt="a-prasatharumugam">
+<img src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam&show_icons=true&theme=tokyonight" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact&theme=tokyonight" height="180px"/>
 </p>
-</details>
- 
 
-<!-- Leetcode status -->
 <p align="center">
-  <a href="https://www.leetcode.com/Prasath_Arumugam"  style="text-decoration:none;" target="blank">
-      <img src="https://leetcard.jacoblin.cool/Prasath_Arumugam?ext=contest&theme=dark" alt="a-prasatharumugam" >
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam&theme=tokyonight"/>
 </p>
 
+---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 LeetCode Stats
+
+<p align="center">
+<a href="https://www.leetcode.com/Prasath_Arumugam" target="blank">
+<img src="https://leetcard.jacoblin.cool/Prasath_Arumugam?ext=contest&theme=dark" />
+</a>
+</p>
+
+---
+
+### 💡 Quote I Believe In
+> “Consistency beats talent when talent doesn’t work hard.”
+
+---
+
+⭐ From [a-prasatharumugam](https://github.com/a-prasatharumugam)
