@@ -57,9 +57,10 @@
     Prasath Arumugam 
   </a>
   <br/><br/>
-  <a href="https://www.leetcode.com/Prasath_Arumugam" style="display:inline-block;text-decoration:none; color:white; font-size:14px;">
 
-  <img src="https://skills.syvixor.com/api/icons?i=leetcode" alt="LeetCode Icon" height="30" style="vertical-align:middle; margin-right:8px;" />
+  
+  <a href="https://www.leetcode.com/Prasath_Arumugam" border="1px">
+  <img  src="https://skills.syvixor.com/api/icons?i=leetcode" alt="LeetCode Icon" height="30"   />
     Prasath Arumugam
   </a>
 
