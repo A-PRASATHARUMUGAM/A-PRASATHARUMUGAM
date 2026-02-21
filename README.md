@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -15,10 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=PROFILE+HITS&color=6f42c1&style=for-the-badge" />
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" />
 </p>
----
+
 
 ## 👨‍💻 About Me
-
 <p align="center">
   <img align="right" width="350" src="https://github.com/0xAditya/Chat-Bot/assets/51108457/59039665-2234-44b4-9336-d7667d3b0008" />
 </p>
