@@ -7,14 +7,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;API+Integration+Expert;React+%7C+Laravel+Expert;1%25+Better+Everyday;Let's+build+something+epic!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+Specialist;API+Integration+Expert;1%25+Better+Every+Single+Day" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/a-prasatharumugam?label=Followers&style=flat-square&color=6f42c1" />
+  <img src="https://img.shields.io/github/followers/a-prasatharumugam?label=NETWORK&style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=PROFILE+HITS&color=6f42c1&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -59,11 +59,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam&theme=tokyonight&hide_border=false" width="100%"/>
 </p>
 
-### 🐍 Contribution Snake
+# 📊 GitHub Visualizer
+
+### 🚀 Dynamic Activity Graph
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=a-prasatharumugam&outputs=color-gradient&color_snake=%230e75b6&color_dots=%23161b22%2C%230e4429%2C%2326a641%2C%2339d353" alt="snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-prasatharumugam&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact&theme=tokyonight&hide_border=false" height="180"/>
+</p>
+
+---
 ---
 
 # 🏆 Achievements & Coding
