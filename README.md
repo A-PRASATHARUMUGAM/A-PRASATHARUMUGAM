@@ -1,83 +1,75 @@
-<!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm Prasath Arumugam
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Prasath Arumugam
 </h1>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;API+Integration+Expert;React+%7C+Laravel+Developer;Consistent+1%25+Better+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;API+Integration+Expert;React+%7C+Laravel+Expert;1%25+Better+Everyday;Let's+build+something+epic!" />
 </p>
 
-<!-- Profile Views + Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/a-prasatharumugam?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=a-prasatharumugam&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/a-prasatharumugam?label=Followers&style=flat-square&color=6f42c1" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+  <img align="right" width="350" src="https://github.com/0xAditya/Chat-Bot/assets/51108457/59039665-2234-44b4-9336-d7667d3b0008" />
+</p>
 
-- 💼 Working as **Full Stack Developer**
-- 🌐 Building scalable web applications
-- 🔗 Strong in API Integration & Database Handling
-- 🌱 Improving **DSA, System Design & Backend Architecture**
-- 🎯 Goal: Getting Better 1% Every Single Day
+- 💼 Currently working as a **Full Stack Developer**
+- 🌐 Passionate about building **scalable & high-performance** web apps
+- 🔗 Expert in **API Architectures** & Database Optimization
+- 🌱 Deep diving into **System Design & Backend Scalability**
+- 🎯 **Daily Goal:** `1.01^365 = 37.8` (The power of 1% improvement)
+
+<br/>
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🎨 UI / UX
+<div align="center">
+
+| **Category** | **Skills** |
+| :--- | :--- |
+| **UI/UX** | <img src="https://skillicons.dev/icons?i=figma,ps,pr" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,sass" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,mysql" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" /> |
+
+</div>
+
+---
+
+# 📊 GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact&theme=tokyonight&hide_border=false" height="180"/>
 </p>
 
-## 💻 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,sass" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam&theme=tokyonight&hide_border=false" width="100%"/>
 </p>
 
-## 🖥️ Backend
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-</p>
-
-## 🧪 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=a-prasatharumugam&outputs=color-gradient&color_snake=%230e75b6&color_dots=%23161b22%2C%230e4429%2C%2326a641%2C%2339d353" alt="snake" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
-
+# 🏆 Achievements & Coding
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=tokyonight&no-frame=false&column=4" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-# 📈 LeetCode Progress
 
 <p align="center">
   <a href="https://www.leetcode.com/Prasath_Arumugam">
@@ -91,29 +83,20 @@
 
 <p align="center">
   <a href="mailto:prasatharumugam040@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/prasath-arumugam-94842a276/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.leetcode.com/Prasath_Arumugam">
-    <img src="https://skills.syvixor.com/api/icons?i=leetcode" height="40"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </p>
-
----
-
-# 💡 Personal Motto
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
-
-<!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0e75b6&height=120&section=footer"/>
 </p>
