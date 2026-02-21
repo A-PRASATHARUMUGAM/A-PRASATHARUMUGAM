@@ -39,11 +39,10 @@
 
 | **Category** | **Skills** |
 | :--- | :--- |
-| **UI/UX** | <img src="https://skillicons.dev/icons?i=figma,ps,pr" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48"/> |
+| **UI/UX** | <img src="https://skillicons.dev/icons?i=figma,ps,pr" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,sass" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nextjs,expressjs,mysql" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /> |
-
 </div>
 
 ---
