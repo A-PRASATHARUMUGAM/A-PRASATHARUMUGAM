@@ -78,11 +78,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=tokyonight&no-frame=false&column=4" width="100%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.leetcode.com/Prasath_Arumugam">
     <img src="https://leetcard.jacoblin.cool/Prasath_Arumugam?ext=contest&theme=dark" />
   </a>
-</p>
+</p> -->
 
 ---
 
