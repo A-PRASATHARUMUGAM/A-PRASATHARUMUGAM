@@ -19,10 +19,12 @@
 
 
 ## 👨‍💻 About Me
-<p align="center">
-  <img align="right" width="350" src="  https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTN6OWRqYWk4dHBobHU4NWdzcWFqMmhsa2owNnZqMHF6Z3BnOXBwdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/200.webp" />
+<br/>
 
-</p>
+<table align="center" width="100%">
+<tr>
+
+<td width="65%">
 
 - 💼 Currently working as a **Full Stack Developer**
 - 🌐 Passionate about building **scalable & high-performance** web apps
@@ -30,7 +32,16 @@
 - 🌱 Deep diving into **System Design & Backend Scalability**
 - 🎯 **Daily Goal:** `1.01^365 = 37.8` (The power of 1% improvement)
 
-<br/>
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hjYXNwZXFkaDU1ZmU5Y21iZnJqbXJ3bTRzMjg5c2MzcjNyNXk4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="250"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
