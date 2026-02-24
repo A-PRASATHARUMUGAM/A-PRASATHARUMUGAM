@@ -20,7 +20,8 @@
 
 ## 👨‍💻 About Me
 <p align="center">
-  <img align="right" width="350" src="https://github.com/0xAditya/Chat-Bot/assets/51108457/59039665-2234-44b4-9336-d7667d3b0008" />
+  <img align="right" width="350" src="  https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTN6OWRqYWk4dHBobHU4NWdzcWFqMmhsa2owNnZqMHF6Z3BnOXBwdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/200.webp" />
+
 </p>
 
 - 💼 Currently working as a **Full Stack Developer**
