@@ -62,13 +62,14 @@
 # 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact&theme=tokyonight&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact&theme=tokyonight&hide_border=false" height="195"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam&theme=tokyonight&hide_border=false" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=a-prasatharumugam&theme=tokyonight&hide_border=false" height="195"/>
 </p>
+
 
 # 📊 GitHub Visualizer
 
@@ -77,25 +78,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-prasatharumugam&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-prasatharumugam&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-prasatharumugam&layout=compact&theme=tokyonight&hide_border=false" height="180"/>
-</p>
-
----
----
-# 🏆 Achievements & Coding
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a-prasatharumugam&theme=tokyonight&no-frame=false&column=4" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://www.leetcode.com/Prasath_Arumugam">
-    <img src="https://leetcard.jacoblin.cool/Prasath_Arumugam?ext=contest&theme=dark" />
-  </a>
-</p> 
-
----
 
 # 📫 Connect With Me
 
