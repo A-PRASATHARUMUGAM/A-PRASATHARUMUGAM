@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+Specialist;API+Integration+Expert;1%25+Better+Every+Single+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Node.js+%7C+React+Specialist;API+Integration+Expert;1%25+Better+Every+Single+Day" />
 </p>
 
 <p align="center">
